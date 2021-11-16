@@ -1,42 +1,53 @@
-<!-- Introduction to Debugging in IDE..
 
-Learning Objectives..
+Polymorphism And Composition Homework, Quiz
 
-Know how to debug a Java application..
-Understand breakpoints..
-Understand the debugger console..
-Know how to evaluate code fragments..
 
-Task..
+Polymorphism..
 
-As an introduction to debugging..
+Q. What does the word 'polymorphism' mean?
 
-Watch the following video..
+A .
 
-Intro to Debugging video.. https://youtu.be/ErVZrVWZrko
+Q. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
 
-Questions..
+A .
 
-Answer the following questions..
+Q. What can we use to implement polymorphism in Java?
 
-1. What is the purpose of a breakpoint?
+A .
 
-A.  
+Q. How many 'forms' can an object take when using polymorphism?
 
-2. Does the line of code on a breakpoint run when you start debugging?
+A .
 
-A.  
+Q. Give an example of when you could use polymorphism.
 
-3. How do we debug the next line of code?
+A .
 
-A.  
 
-4. What does the step into command do?
+Composition, and Aggregation..
 
-A.  
+Q. What do we mean by 'composition' in reference to object-oriented programming?
 
-5. What is the difference between evaluate expression and evaluate code fragment? -->
+A .
 
-A. 
+Q. When would you use composition? Provide a simple example in Java.
 
- -->
+A .
+
+Q. Give a difference between composition and aggregation?
+
+A .
+
+Q. What is/are the advantage(s) of using composition/aggregation?
+
+A .
+
+Q. When using composition, when an object is destroyed, what happens to all the objects it is composed of?
+
+A .
+
+Q. When using aggregation, when an object is destroyed, what happens to all the objects it is composed of?
+
+A .
+
