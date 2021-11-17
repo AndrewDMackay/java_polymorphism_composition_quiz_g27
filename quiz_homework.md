@@ -92,3 +92,12 @@ Q.  When using aggregation, when an object is destroyed, what happens to all the
 
 A . Only the object itself is destroyed, as the objects exist independently of the object that owns it.
 
+
+Dependency Inversion..
+
+Q. Define Dependency Inversion..
+
+A. 'A higher level module should not depend on a lower level module, both should depend on abstractions.'
+
+    eg. Shop example, Paypal, Stripe, Monzo, IPayable interface..
+
